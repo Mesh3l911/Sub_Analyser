@@ -16,7 +16,7 @@
 <br>
 
 # Usage :
-<b>1-Fire up the script <br><code>python3 Sub_Analyser.py</code>
+<b>1-Fire up the script <br><br><code>python3 Sub_Analyser.py</code><br>
 <br>2- Write ur alive sub domains list path <br> 3- The output ( Vulnerable sub-domains ) will be saved in a txt file called (Vulnerable_SubDomains.txt)</b><br><br>
 <br>
 <br>
