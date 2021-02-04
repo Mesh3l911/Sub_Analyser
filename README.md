@@ -35,7 +35,7 @@
 # P.s :
 <b>This is the 1st version of this tool. We can all improve it together and I'll tell you how :<br>
 I've collected 36 different services so what we can do is collecting more and more services 
-when ever you face a new service that you could TakOver any of its subdomain you can DM me in twitter @Mesh3l_911 
+when ever you face a new service that you could TakOver any of its subdomain and you would like to share it with the community you can DM me in twitter @Mesh3l_911 
 and give me the name of that service so that I add it up to the list of the next vesrion INSHALLAH ^_^</b>
 
 <br>
