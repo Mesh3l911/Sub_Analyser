@@ -3,7 +3,7 @@
 
 # Sub_Analyser v1.0 :
 
-<br><b>It's a tool that automates the process of testing websites against Sub-Domain TakeOver vulnerabilities</b>
+<br><b>It's a tool that automates the process of testing websites against Sub-Domain TakeOver vulnerabilities.It's provided with 36 different services from @EdOverflow repo [ can-i-take-over-xyz ] and others that I've collected throughout my own experience ^_^  </b>
 <br>
 
 # Usage :
