@@ -14,7 +14,7 @@
 ![](Sub_images/Front.png)  <br><br>
 <b> Full output </b>
 ![](Sub_images/results.png)  <br><br>
-<b> Output's Report </b><br>
+                                                          <b> Output's Report </b><br>
 ![](Sub_images/report.png)  <br><br>
 <b>Vulnerable_SubDomains.txt</b>
 ![](Sub_images/output.png)  <br><br>
