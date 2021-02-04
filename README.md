@@ -22,7 +22,6 @@
   
 <br>3- Write ur alive sub domains list path <br> 
 4- The output ( Vulnerable sub-domains ) will be saved in a txt file called (Vulnerable_SubDomains.txt)</b><br><br>
-<br>
 
 ![](Sub_images/Front.png)  <br><br>
 <b> Full output </b>
