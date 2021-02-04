@@ -43,4 +43,4 @@ and give me the name of that service so that I add it up to the list of the next
 
 <br>
 
-# Happy Hunting ^_^ :
+# Happy Hunting ^_^ 
