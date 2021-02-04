@@ -1,6 +1,7 @@
 ![](Sub_images/sub_logo.jpg)  <br>
 <br>
 
-<h1><b>SQLi_Checker v1.1 :</b></h1>
-<h1>SQLi_Checker v1.1 :</h1>
+# Sub_Analyser v1.0 :
+It's a tool that automates the process of testing websites against Sub-Domain TakeOver vulnerabilities
+
 
