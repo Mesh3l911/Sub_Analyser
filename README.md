@@ -20,8 +20,8 @@
 <b>1-Collect alive SubDomains by ur own way</b><br>
 <b>2-Fire up the script </B><br><br><code>python3 Sub_Analyser.py</code><br>
   
-<br>3- Write ur alive sub domains list path <br> 
-4- The output ( Vulnerable sub-domains ) will be saved in a txt file called (Vulnerable_SubDomains.txt)</b><br><br>
+<b><br>3- Write ur alive sub domains list path <br> 
+4- The output ( Vulnerable sub-domains ) will be saved in a txt file called (Vulnerable_SubDomains.txt)</b><br><br></b>
 
 ![](Sub_images/Front.png)  <br><br>
 <b> Full output </b>
