@@ -16,8 +16,10 @@
 <br>
 
 # Usage :
-<b>1-Fire up the script <br><br><code>python3 Sub_Analyser.py</code><br>
-<br>2- Write ur alive sub domains list path <br> 3- The output ( Vulnerable sub-domains ) will be saved in a txt file called (Vulnerable_SubDomains.txt)</b><br><br>
+<br>
+<b>1-Collect SubDomains by ur own way</b><br>
+<b>2-Fire up the script <br><br><code>python3 Sub_Analyser.py</code><br>
+<br>3- Write ur alive sub domains list path <br> 3- The output ( Vulnerable sub-domains ) will be saved in a txt file called (Vulnerable_SubDomains.txt)</b><br><br>
 <br>
 <br>
 ![](Sub_images/Front.png)  <br><br>
