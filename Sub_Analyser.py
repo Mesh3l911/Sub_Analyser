@@ -66,7 +66,7 @@ def sub_analyser():
                 for sub in subs.read().splitlines():
                     sub_count+=1
                     dig = str(subprocess.run(['dig', sub], capture_output=True))
-                    vuln = ['.agilecrm.com','.airee.ru','.animaapp.com','.amazonaws.com','.bitbucket.com','.createsend.com','.digitalocean.com','.ghost.io','.gemfury.com','.github.io','.cloudapp.net','.cloudapp.azure.com','.azurewebsites.net','.blob.core.windows.net','.cloudapp.azure.com','.azure-api.net','.azurehdinsight.net','.azureedge.net','.azurecontainer.io','.database.windows.net','.azuredatalakestore.net','.search.windows.net','.azurecr.io','.redis.cache.windows.net','.azurehdinsight.net','.servicebus.windows.net','.visualstudio.com','.helpscoutdocs.com','.ngrok.io','.pingdom.com','.readme.io','.smartjobboard.com','.mysmartjobboard.com','.strikinglydns.com','.surge.sh','.uberflip.com']
+                    vuln = ['.agilecrm.com','.netlify.com','.airee.ru','.animaapp.com','.amazonaws.com','.bitbucket.com','.createsend.com','.digitalocean.com','.ghost.io','.gemfury.com','.github.io','.cloudapp.net','.cloudapp.azure.com','.azurewebsites.net','.blob.core.windows.net','.cloudapp.azure.com','.azure-api.net','.azurehdinsight.net','.azureedge.net','.azurecontainer.io','.database.windows.net','.azuredatalakestore.net','.search.windows.net','.azurecr.io','.redis.cache.windows.net','.azurehdinsight.net','.servicebus.windows.net','.visualstudio.com','.helpscoutdocs.com','.ngrok.io','.pingdom.com','.readme.io','.smartjobboard.com','.mysmartjobboard.com','.strikinglydns.com','.surge.sh','.uberflip.com']
 
                     for i in vuln:
                         not_vuln=False
