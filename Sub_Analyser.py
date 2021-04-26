@@ -71,8 +71,8 @@ def sub_analyser():
                     for i in vuln:
                         not_vuln=False
                         if ('CNAME' in dig) and (i in dig) and ('NXDOMAIN' in dig) and ('elb' not in dig) and ('compute' not in dig):
-                            print("\033[1;32m The Sub-Domain \033[1;m \033[1;37m{}\033[1;m\033[1;32m is 99.99% Vulnerable :) , The service is \033[1;m \033[1;37m{}\n\033[1;m".format(sub,i))
-                            results.write("\n The Sub-Domain ..| {} |.. is 99.99% Vulnerable :) , The service is ..| {} |.. \n".format(sub,i))
+                            print("\033[1;32m if The Sub-Domain \033[1;m \033[1;37m{}\033[1;m\033[1;32m is available so it's 99.99% Vulnerable :) , The service is \033[1;m \033[1;37m{}\n\033[1;m".format(sub,i))
+                            results.write("\n if The Sub-Domain ..| {} |.. is available so it's 99.99% Vulnerable :) , The service is ..| {} |.. \n".format(sub,i))
                             vuln_count+=1
 
                         elif ('CNAME' in dig) and (i in dig) and ('NXDOMAIN' not in dig) and ('elb' not in dig) and ('compute' not in dig):
@@ -88,8 +88,8 @@ def sub_analyser():
                             except requests.exceptions.SSLError and requests.exceptions.ConnectionError:
                                 status_http = 0
                             if (status_https != 200 or status_https != 302 ) or (status_http != 200 or status_http != 302):
-                                print("\033[1;32m The Sub-Domain \033[1;m \033[1;37m{}\033[1;m\033[1;32m is 99.99% Vulnerable :) , The service is \033[1;m \033[1;37m{}\n\033[1;m".format(sub, i))
-                                results.write("\n The Sub-Domain ..| {} |.. is 80% Vulnerable :) , The service is ..| {} |.. \n".format(sub, i))
+                                print("\033[1;32m id The Sub-Domain \033[1;m \033[1;37m{}\033[1;m\033[1;32m is available so it's 99.99% Vulnerable :) , The service is \033[1;m \033[1;37m{}\n\033[1;m".format(sub, i))
+                                results.write("\n if The Sub-Domain ..| {} |.. is available so it's 80% Vulnerable :) , The service is ..| {} |.. \n".format(sub, i))
                                 vuln_count+=1
                             else:
                                 pass
